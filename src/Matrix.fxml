@@ -9,7 +9,7 @@
 
 <AnchorPane pickOnBounds="false" prefHeight="720.0" prefWidth="1280.0" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="Matrix">
    <children>
-      <ScrollPane hbarPolicy="ALWAYS" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" prefHeight="720.0" prefWidth="1280.0" vbarPolicy="ALWAYS">
+      <ScrollPane hbarPolicy="ALWAYS" layoutX="19.0" layoutY="14.0" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" prefHeight="696.0" prefWidth="1243.0" vbarPolicy="ALWAYS">
         <content>
           <AnchorPane minHeight="0.0" minWidth="0.0">
                <children>
